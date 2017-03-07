@@ -284,6 +284,4 @@ plt.show() #plot 4 set of it based on a,b,c,d
 #.bar .hist .box .kde .area .scatter .hexbin .pie
 ax = data.plot.scatter(x='a',y='b',color='darkblue',label='class1')
 data.plot.scatter(x='a',y='c',color='darkgreen',label='class2', ax = ax) #remember giving ax
-plt.show()
-
-
+plt.show()#
