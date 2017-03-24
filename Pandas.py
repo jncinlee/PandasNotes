@@ -3,7 +3,7 @@
 
 
 
-##11 Pandas basic
+##11 Pandas basic syntax
 #like a dictionary
 import pandas as pd
 import numpy as np
